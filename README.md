@@ -1,5 +1,4 @@
-# zabbix-aruba-instant
-Template for Aruba Instant APs
+# Aruba Instant Template for Zabbix
 
 Link this template to snmp configured Aruba Instant APs to observe SSIDs, Clients, Devices, Radios, and the Virtual Controller
 
