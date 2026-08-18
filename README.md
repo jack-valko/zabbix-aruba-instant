@@ -5,5 +5,6 @@ Link this template to Aruba Instant APs to observe SSIDs, Clients, Devices, Radi
 - Discovery and tracking of virtual controller
 - Trigger alert on excessive use (eg CPU, memory, etc)
 - Notification on AP status and state changes
+- Discovery and profiling of radio performance
 - Track WiFi clients as they move around between APs
 - Zabbix Version 7.4 and later
